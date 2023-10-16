@@ -4,3 +4,4 @@ adding some additional configurations
 found a couple of more config values that are needed
 CHANGE LOCALLY !!!
 CHANGE REMOTE !!!
+161023 changed by amelchio
